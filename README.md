@@ -168,7 +168,7 @@ $ ./runTests			// performs using testing
 The emulator is designed using C++. To compile the project files, copy all the files from folder src to the main folder and type command “make” on the terminal.This will compile all the code files and create the object file “setup” which will be used to run the emulator. The emulator works on two modes of input. User can provide the code via input file (.asm) or one could also write it on the terminal. The user can run the whole code at once or he can also run it in the debugger mode.
 
 I would like to thank these people for providing me with their code for references:
-Hardik Gaur (hardikgaur@geu.ac.in)
-Parth Trehan (parthendo@geu.ac.in)
+
+Hardik Gaur and Parth Trehan [Graphic Era University]
 
 
